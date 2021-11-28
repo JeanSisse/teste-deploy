@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+#root {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+body {
+  margin: 0;
+  font-size: 1.6rem;
+  background: #f8f8f9;
+}
+
+.display-flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.display-flex-row {
+  display: flex;
+}
+
+.justify-content-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.register-login-link {
+  color: #da0175;
+}
+
+.font-nunito {
+  font-family: "Nunito";
+}
+
+.font-inter {
+  font-family: "Inter";
+}
+
+.font-montserrat {
+  font-family: "Montserrat";
+}

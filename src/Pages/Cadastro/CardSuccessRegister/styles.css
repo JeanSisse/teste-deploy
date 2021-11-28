@@ -1,0 +1,16 @@
+.card-success {
+  width: 600px;
+  height: 512px;
+
+  background: #f0f0f5;
+  border-radius: 30px;
+}
+
+.card-sucess--h1 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 130%;
+  margin-top: 1.5rem;
+}
